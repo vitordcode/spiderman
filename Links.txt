@@ -1,0 +1,6 @@
+Arquivos e links úteis do vídeo:
+Biblioteca Tilt.js: https://gijsroge.github.io/tilt.js/​
+Biblioteca GSAP: https://greensock.com/docs/v2/​
+CDN GSAP: https://cdnjs.com/libraries/gsap/2.1.3​
+CDN JQuery: https://code.jquery.com/​
+Código GitHub: https://github.com/nyousefali/youtube...
